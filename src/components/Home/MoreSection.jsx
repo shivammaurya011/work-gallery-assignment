@@ -17,7 +17,6 @@ function MoreSection() {
       console.error('Error fetching data:', error);
     }
   };
-
   return (
     <div className='px-32 py-4'>
       <h1 className='text-2xl font-bold mb-4'>More projects</h1>
