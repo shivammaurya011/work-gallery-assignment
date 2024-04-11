@@ -28,5 +28,4 @@ function MoreSection() {
     </div>
   );
 }
-
 export default MoreSection;
