@@ -1,0 +1,69 @@
+{
+  "projects": [
+    {
+      "id": "1",
+      "name": "Todo Project",
+      "description": "A simple todo application built using React. Allows users to create, edit, and delete tasks. Styled with CSS for a clean interface.",
+      "techStack": "React, CSS, JavaScript",
+      "image": "blob:http://localhost:3000/e738ec8f-134f-4ceb-bbed-7df72765a7e7"
+    },
+    {
+      "id": "2",
+      "name": "E-commerce Website",
+      "description": "An online shopping platform with cart functionality, developed using React, Redux, Node.js, and MongoDB. Supports user authentication and order management.",
+      "techStack": "React, Redux, Node.js, MongoDB",
+      "image": "blob:http://localhost:3000/eb39b002-84cd-4a9e-9397-6759b780ccc5"
+    },
+    {
+      "id": "3",
+      "name": "Weather App",
+      "description": "A weather application to check current weather conditions. Provides detailed weather forecasts based on user location using React and OpenWeatherMap API.",
+      "techStack": "React, OpenWeatherMap API",
+      "image": "blob:http://localhost:3000/cae0dbde-fa1e-4e3d-9b11-e77d6824c2c5"
+    },
+    {
+      "id": "4",
+      "name": "Blog Website",
+      "description": "A platform for creating and sharing blog posts. Includes user authentication, comment sections, and post management. Built with React, Redux, Express, and MongoDB.",
+      "techStack": "React, Redux, Express, MongoDB",
+      "image": "blob:http://localhost:3000/6dd99aee-20b2-4fdb-8c72-83c8d310604b"
+    },
+    {
+      "id": "5",
+      "name": "Portfolio Website",
+      "description": "A personal portfolio showcasing projects and skills. Features project galleries, skill showcases, and contact form. Designed using React and styled with Tailwind CSS.",
+      "techStack": "React, Tailwind CSS",
+      "image": "blob:http://localhost:3000/d9b18a70-e706-40a2-9338-20777492b46a"
+    }
+  ],
+  "moreProjects": [
+    {
+      "id": "6",
+      "name": "Recipe App",
+      "description": "Discover and save favorite recipes. Built with React, Firebase, and Spoonacular API.",
+      "techStack": "React, Firebase, Spoonacular API",
+      "image": "blob:http://localhost:3000/56b1ee96-8916-4d08-9712-6cd77fa6125d"
+    },
+    {
+      "id": "7",
+      "name": "Fitness Tracker",
+      "description": "Track fitness activities and progress. Built with React, Node.js, Express, and MongoDB.",
+      "techStack": "React, Node.js, Express, MongoDB",
+      "image": "blob:http://localhost:3000/6f454753-6087-47ed-a0a0-b1f68de02832"
+    },
+    {
+      "id": "8",
+      "name": "E-learning Platform",
+      "description": "Online learning platform with courses, quizzes, and progress tracking. Developed using React, Redux, Django, and PostgreSQL.",
+      "techStack": "React, Redux, Django, PostgreSQL",
+      "image": "blob:http://localhost:3000/459268bd-469c-4dd0-a351-53c1b749e536"
+    },
+    {
+      "id": "9",
+      "name": "Chat Application",
+      "description": "Real-time chat application for communication between users. Built with React, Socket.IO, and Node.js.",
+      "techStack": "React, Socket.IO, Node.js",
+      "image": "blob:http://localhost:3000/a4b1abb8-a9e7-43ed-ab7e-fa265d713841"
+    }
+  ]
+}
